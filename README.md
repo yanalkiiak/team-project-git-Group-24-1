@@ -12,4 +12,4 @@
 - Студент Б
 
 ## Контакти
-Контакт: yana.bb@example.com
+Контакт: yana.a@example.com
