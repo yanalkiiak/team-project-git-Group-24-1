@@ -1,12 +1,8 @@
 # team-project-git-Group-24-1
-## Опис
 Цей репозиторій містить матеріали командного проєкту з Git.
-## Структура
 - topic-x.md
 - topic-y.md
 - README.md
-## Учасники
 - Яна
-- Студент Б
-## Контакти
-Контакт: yana.a@example.com
+- Студент Б 
+Контакт: yana.aaa@example.com.ukd
