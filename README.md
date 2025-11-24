@@ -1,8 +1,5 @@
-# team-project-git-Group-24-1
-Цей репозиторій містить матеріали командного проєкту з Git.
-- topic-x.md
-- topic-y.md
-- README.md
-- Яна
-- Студент Б 
-Контакт: yana.aaa@example.com.ukd
+# Контактна інформація
+
+Цей файл містить контактні дані учасників.
+
+Контакт: yana.a@example.com
